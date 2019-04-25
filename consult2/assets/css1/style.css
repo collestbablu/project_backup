@@ -1,0 +1,101 @@
+/* CSS Document */
+
+body{
+ margin:0px;
+ background: url(../images1/bg.jpg); no-repeat center center fixed; 
+  background-size: cover;
+  font-family:Arial, Helvetica, sans-serif;
+ }
+ 
+
+.top-line{
+ width:100%;
+ height:106px;
+ float:left;
+ background-color:#3567a4;
+ border-bottom:1px solid #18367e;
+ }
+
+.logo-bg{
+ width:50%;
+ height:215px;
+ float:left;
+ -webkit-border-bottom-right-radius: 50px;
+ -moz-border-radius-bottomright: 50px;
+ border-bottom-right-radius: 50px;
+ background-color:#cad2db;
+ z-index:9999;
+ position:absolute;
+ }
+ 
+h1{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:52px;
+ color:#193a81;
+ margin:30px 0 0 10px;
+ font-weight:bold;
+ } 
+
+.clear{
+ clear:both;
+ }
+
+.logo{
+ width:326px;
+ height:auto;
+ margin:auto;
+ margin-top:200px;
+ background-color:#0066CC;
+ border-radius:12px;
+ border:1px solid #224a8e;
+  }
+  
+.td-left{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:14px;
+ color:#FFFFFF;
+ padding:0 0 0 0px;
+ }  
+  
+.loginbox{ 
+ background:#3567a4  opacity 1.0; 
+ padding:10px; 
+ width:326px; 
+ margin:18% auto 4% auto; 
+ position:relative; 
+ border-radius:15px; 
+ border:1px solid #295496;
+
+ }
+ 
+.input-text{
+ width:190px;
+ height:24px;
+ background-color:#FFFFFF;
+ padding: 0 0 0 6px;
+ } 
+
+  
+.submit{
+ color: #375a7c;
+ padding:10px;
+ width:80px;
+ text-decoration: none;
+ text-align:center;
+ background-color:#fff;
+ border:1px solid #657f98;
+ background-color:#8b9fb4;
+ padding: 8px;
+ float:left;
+ border-radius:8px;
+ margin:0 0 0 10px;
+}
+
+.submit a:hover {
+ color: #fff;
+ text-decoration: none;
+ background-color:#375a7c;
+}
+
+
+ 

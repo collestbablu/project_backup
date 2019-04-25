@@ -1,0 +1,77 @@
+/* CSS Document */
+
+body{
+ margin:0px;
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ }
+ 
+.text-container{
+ width:980px;
+ margin:auto;
+ overflow:hidden;
+ } 
+
+.col-l{
+ width:400px;
+ float:left;
+ background-color:#fff;
+ border:1px solid #e5e4e4;
+ border-radius:12px;
+ }
+ 
+.col-r{
+ width:400px;
+ float:left;
+ background-color:#fff;
+ border:1px solid #e5e4e4;
+ border-radius:12px;
+ margin:0 0 0 10px;
+ }
+ 
+
+ravi{
+ color: #375a7c;
+ padding:10px;
+ width:80px;
+ text-decoration: none;
+ text-align:center;
+ background-color:#fff;
+ border:1px solid #657f98;
+ background-color:#8b9fb4;
+ padding: 8px;
+ float:left;
+ border-radius:8px;
+ margin:0 0 0 10px;
+}
+
+ravi:hover {
+ color: #fff;
+ text-decoration: none;
+ background-color:#375a7c;
+}
+
+
+select, input{
+	width:173px;
+	height:30px;
+	transition: border-color 0.3s;
+	-o-transition: border-color 0.3s;
+	-ms-transition: border-color 0.3s;
+	-moz-transition: border-color 0.3s;
+	-webkit-transition: border-color 0.3s;
+	margin: 0 0 10px 10px;
+}
+
+.td{
+ background-color:#375a7c;
+ padding: 2px 10px 2px 31px;
+ color:#fff;
+ }
+
+.td-line{
+ background-color:#b51a18;
+ width:2px;
+ }
+
+

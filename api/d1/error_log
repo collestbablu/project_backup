@@ -1,0 +1,4 @@
+[15-Jan-2019 07:17:13 Etc/GMT] PHP Notice:  Undefined index: ad_street1 in /home/techvyaserp/public_html/api/d1/authorize.class.php on line 867
+[15-Jan-2019 07:17:23 Etc/GMT] PHP Notice:  Undefined variable: strCustomerPaymentProfileXML in /home/techvyaserp/public_html/api/d1/authorize.class.php on line 259
+[15-Jan-2019 07:17:59 Etc/GMT] PHP Notice:  Undefined index: ad_street1 in /home/techvyaserp/public_html/api/d1/authorize.class.php on line 867
+[15-Jan-2019 07:18:02 Etc/GMT] PHP Notice:  Undefined variable: strCustomerPaymentProfileXML in /home/techvyaserp/public_html/api/d1/authorize.class.php on line 259

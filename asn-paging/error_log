@@ -1,0 +1,43 @@
+
+[06-Jan-2017 17:31:39 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 4
+[06-Jan-2017 17:31:43 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 4
+[06-Jan-2017 17:32:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:32:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:33:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:33:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:33:46 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[06-Jan-2017 17:34:35 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[06-Jan-2017 17:34:38 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[06-Jan-2017 17:35:27 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[29-Jul-2017 09:33:30 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:33:33 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:34:23 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:34:25 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:34:29 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:34:32 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:34:33 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:34:35 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:35:26 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::manage_not_delivery_or_return() in /home/techvtrr/public_html/asn/application/modules/master/controllers/Account.php on line 1021
+[29-Jul-2017 09:41:04 Etc/GMT] PHP Fatal error:  Call to undefined method Account::docket_list_booked() in /home/techvtrr/public_html/asn/application/modules/master/views/Account/manage-booked.php on line 9
+[29-Jul-2017 09:41:31 Etc/GMT] PHP Fatal error:  Call to undefined method Account::docket_list_booked() in /home/techvtrr/public_html/asn/application/modules/master/views/Account/manage-booked.php on line 9
+[29-Jul-2017 09:41:51 Etc/GMT] PHP Fatal error:  Call to undefined method Account::docket_list_booked() in /home/techvtrr/public_html/asn/application/modules/master/views/Account/manage-booked.php on line 9
+[29-Jul-2017 09:45:49 Etc/GMT] PHP Fatal error:  Call to undefined method Account::docket_list_booked() in /home/techvtrr/public_html/asn/application/modules/master/views/Account/manage-booked.php on line 9
+[29-Jul-2017 09:49:55 Etc/GMT] PHP Fatal error:  Call to undefined method Account::docket_list_booked() in /home/techvtrr/public_html/asn/application/modules/master/views/Account/manage-booked.php on line 9
+[29-Jul-2017 09:54:42 Etc/GMT] PHP Fatal error:  Call to undefined method Account::docket_list_booked() in /home/techvtrr/public_html/asn/application/modules/master/views/Account/manage-booked.php on line 9
+[05-Aug-2017 08:56:15 Etc/GMT] PHP Fatal error:  Class 'Model_report' not found in /home/techvtrr/public_html/asn/application/third_party/MX/Loader.php on line 205
+[16-Aug-2017 12:00:08 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:00:53 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:01:17 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:11 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:12 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:12 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:12 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:13 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:13 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[16-Aug-2017 12:02:13 Etc/GMT] PHP Fatal error:  Call to undefined method model_report::geTconsignorInvoiceSearch() in /home/techvtrr/public_html/asn/application/modules/report/controllers/Report.php on line 63
+[07-Sep-2017 05:20:47 Etc/GMT] PHP Fatal error:  Call to a member function print_debugger() on a non-object in /home/asnlog/public_html/asn/application/modules/master/controllers/Account.php on line 1490
+[07-Sep-2017 05:20:49 Etc/GMT] PHP Fatal error:  Call to a member function print_debugger() on a non-object in /home/asnlog/public_html/asn/application/modules/master/controllers/Account.php on line 1490
+[07-Sep-2017 05:51:15 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/asnlog/public_html/asn/application/modules/master/controllers/Account.php on line 1463
+[07-Sep-2017 05:51:18 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/asnlog/public_html/asn/application/modules/master/controllers/Account.php on line 1463
+[07-Sep-2017 05:52:48 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/asnlog/public_html/asn/application/config/config.php on line 498
+[07-Sep-2017 05:52:50 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/asnlog/public_html/asn/application/config/config.php on line 498

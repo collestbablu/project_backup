@@ -1,0 +1,20 @@
+
+[06-Jan-2017 17:31:39 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 4
+[06-Jan-2017 17:31:43 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 4
+[06-Jan-2017 17:32:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:32:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:33:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:33:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/report/controllers/report.php on line 10
+[06-Jan-2017 17:33:46 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[06-Jan-2017 17:34:35 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[06-Jan-2017 17:34:38 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[06-Jan-2017 17:35:27 Asia/Kolkata] PHP Fatal error:  Class 'my_Controller' not found in /home/wwwsoftfluxtech/public_html/mr-krishna/application/modules/billing/controllers/billing.php on line 4
+[08-Jun-2017 09:12:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/report/views/MachinePerformanceReport/machine-performance-report.php on line 196
+[08-Jun-2017 09:12:32 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/report/views/MachinePerformanceReport/machine-performance-report.php on line 196
+[05-Jul-2017 12:19:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/techvtrr/public_html/consult/application/modules/master/views/Item/production-details.php on line 165
+[05-Jul-2017 12:19:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/techvtrr/public_html/consult/application/modules/master/views/Item/production-details.php on line 165
+[20-Jul-2017 07:46:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/master/views/Machine_Performance/manage-machine-performance.php on line 105
+[20-Jul-2017 07:46:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/master/views/Machine_Performance/manage-machine-performance.php on line 105
+[20-Jul-2017 07:47:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '"(hours)"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/master/views/Machine_Performance/manage-machine-performance.php on line 105
+[20-Jul-2017 07:47:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '"(hours)"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/master/views/Machine_Performance/manage-machine-performance.php on line 105
+[20-Jul-2017 07:47:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '"(hours)"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/techvtrr/public_html/consult/application/modules/master/views/Machine_Performance/manage-machine-performance.php on line 105

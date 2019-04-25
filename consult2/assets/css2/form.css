@@ -1,0 +1,88 @@
+body {
+  background: #dddddd;
+  font-family: "Signika";
+}
+
+form {
+  position: relative;
+  width: 500px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.break {
+  background-color: #dddddd;
+  height: 2px;
+  width: 900px;
+}
+
+input {
+  font-size: 20px;
+  font-family: "Aller Light";
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  width: 470px;
+  color: #2c3e50;
+}
+input:focus {
+  color: #3498db;
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: #d3dadb;
+}
+.file-input-wrapper {
+            height: 30px;
+            margin: 2px;
+            overflow: hidden;
+            position: relative;
+            width: 118px;
+            background-color: #fff;
+            cursor: pointer;
+        }
+        .file-input-wrapper > input[type="file"] {
+            font-size: 40px;
+            position: absolute;
+            top: 0;
+            right: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+        .file-input-wrapper > .btn-file-input {
+            background-color: #F2F7F9;
+            border-radius: 4px;
+            color: #050000;
+            display: inline-block;
+            height: 34px;
+            margin: 0 0 0 -1px;
+            padding-left: 0;
+            width: 121px;
+            cursor: pointer;
+        }
+        .file-input-wrapper:hover > .btn-file-input {
+            //background-color: #494949;
+        }
+
+.btn {
+  position: relative;
+  width: 100px;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  background: #3498db;
+  color: #fff;
+}
+.btn:active {
+  top: 4px;
+  background: #217dbb;
+}
+
+.btntxt {
+  font-size: 22px;
+  padding: 10px 15px;
+}
